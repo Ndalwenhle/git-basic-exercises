@@ -1,0 +1,31 @@
+    1  ls -a
+    2  cd git-basic-exercises
+    3  git status
+    4  git log
+    5  git congif --global usermail "khethiwecelemacele@gmail.com"
+    6  git congig --global usermail "khethiwecelemacele@gmail.com"
+    7  git config --global usermail "khethiwecelemacele@gmail.com"
+    8  git log
+    9  git checkout
+   10  git checkout commit 837fe058778613078acd171b0845befae3a9f4ae
+   11  cat README.md
+   12  git log
+   13  git checkout 843d489c2c871e3dbc7f3b612817f64107c95508
+   14  cat README.md
+   15  git checkout main
+   16  cat README.md
+   17  git branch
+   18  git branch milkshake-flavours
+   19  git branch
+   20  git checkout milkshake-flavours
+   21  nano milkshakes.md
+   22  git status
+   23  git add milkshakes.md
+   24  git commit -m "added initial flavours"
+   25  git log
+   26  git checkout main
+   27  git branch history
+   28  git checkout history
+   29  git log
+   30  git branch
+   31  history > history.txt
