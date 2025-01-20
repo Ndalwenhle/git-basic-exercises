@@ -11,3 +11,6 @@ How to use gitignore files
 How to merge branches
 How to overcome merge conflicts
 When you are finished with these exercises come re-read this section and make sure you know what all these things mean.
+
+
+"I am really enjoying the GIT exercises"
